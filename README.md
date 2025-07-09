@@ -3,7 +3,7 @@
 A responsive and modern File Sharing Platform UI, built using HTML, CSS, and JavaScript.
 It features a clean dashboard, quick access widgets, file list, and a sidebar navigation.
 ## 🚀 Features
-+ Sidebar navigation with sections:
+* Sidebar navigation with sections:
 - Dashboard
 - Your Files
 - Your Disks
@@ -13,7 +13,7 @@ It features a clean dashboard, quick access widgets, file list, and a sidebar na
 - Settings
 - Search bar and notification icons
 
-+ Quick access tiles for:
+* Quick access tiles for:
 - Pictures
 - Documents
 - Sounds
